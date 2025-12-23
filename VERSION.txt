@@ -1,4 +1,6 @@
-Version: 1.0.1
-Release Date: January 27, 2024
-Release Type: Hotfix
-Fix: Critical authentication validation bug
+Version: 1.1.0
+Release Date: February 25, 2024
+Release Notes:
+- Analytics dashboard
+- Performance improvements
+- Bug fixes from v1.0.1
