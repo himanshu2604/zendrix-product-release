@@ -1,7 +1,4 @@
-Version: 1.0.0
-Release Date: January 25, 2024
-Release Notes:
-- User authentication system
-- Payment gateway integration
-- Notification system
-- Initial product launch
+Version: 1.0.1
+Release Date: January 27, 2024
+Release Type: Hotfix
+Fix: Critical authentication validation bug
