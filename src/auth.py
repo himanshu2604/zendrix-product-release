@@ -1,6 +1,8 @@
-# User Authentication Module
+# User Authentication Module - FIXED
 def login(username, password):
-    # Authentication logic
+    # Fixed: Added input validation
+    if not username or not password:
+        return False
     return authenticate_user(username, password)
 
 def logout(user_id):
