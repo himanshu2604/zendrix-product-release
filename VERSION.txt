@@ -1,0 +1,7 @@
+Version: 1.0.0
+Release Date: January 25, 2024
+Release Notes:
+- User authentication system
+- Payment gateway integration
+- Notification system
+- Initial product launch
